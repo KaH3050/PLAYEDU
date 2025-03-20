@@ -1,3 +1,3 @@
 <resources>
-    <string name="app_name">Playedu</string>
+    <string name="app_name" translatable="false">Playedu</string>
 </resources>
